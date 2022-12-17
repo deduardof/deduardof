@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Douglas Eduardo <@deduardof>
+- 👀 I’m interested in Flutter for now...
+- 🌱 I’m currently learning a lot of things 👀
+- Send me a hello on Instagram @deduardof 
